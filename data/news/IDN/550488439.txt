@@ -1,0 +1,17 @@
+ALEXANDRIA, Va. (AP) — Twenty-year-old Ardit Ferizi readily admitted his crime: hacking computers to obtain personal data of more than 1,300 U.S. government and military personnel, then turning the data over to the Islamic State group. But he couldn’t explain why.
+
+“I don’t know myself why I did it,” Ferizi told a judge at a hearing Wednesday in U.S. District Court in Alexandria, where he pleaded guilty to providing material support to terrorists and unauthorized computer access. “I ask myself the same question.”
+
+Ferizi, a native of Kosovo, was arrested in Malaysia in October at the request of U.S. authorities, when he was linked to the online moniker “Th3Dir3ctorY.” Ferizi’s crimes occurred in the summer of 2015 while he was living in Malaysia.
+
+Ferizi admitted hacking the records of a private company and providing names, email passwords and phone numbers of tens of thousands of customers. He then filtered the data to sort out those with email addresses that ended in .gov and .mil. He then gave the information to an Islamic State member named Junaid Hussain.
+
+According to the statement of facts in his plea agreement, Ferizi was aware that the Islamic State would use the information to “hit them hard.”
+
+Indeed, in August, the “Islamic State Hacking Division” sent out a message on Twitter warning the “Crusaders” that it would “strike at your necks in your own lands.” The tweet came with a 30-page attachment listing the personal data of those 1,300 service members and government workers.
+
+The Justice Department said Ferizi’s conviction is the first in which a defendant was convicted on both cyber hacking and terrorism charges.
+
+“Ferizi endangered the lives of over 1,000 Americans,” said Dana Boente, U.S. Attorney for the Eastern District of Virginia, in a written statement. “Cyber terrorism has become an increasingly prevalent and serious threat here in America, both to individuals and businesses. However, cyber terrorists are no different from other terrorists: No matter where they hide, we will track them down and seek to bring them to the United States to face justice.”
+
+Ferizi will be sentenced in September and faces up to 25 years in prison.

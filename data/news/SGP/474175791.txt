@@ -1,0 +1,51 @@
+Image copyright NCA Image caption Stefan Rigo spied on victims who had no idea they were being watched
+
+A Leeds-based hacker used a notorious piece of malware called BlackShades to spy on people via their webcams.
+
+Investigators from the National Crime Agency found images on the computer of Stefan Rigo, 34, including ones of people involved in sexual activity, some of whom were on Skype at the time.
+
+Rigo was arrested in November last year during an international investigation.
+
+He has been given a 20-week suspended sentence and placed on the sex offenders' register for seven years.
+
+Rigo targeted a variety of victims after gaining remote access to their computers' webcams.
+
+Incriminating images on his computer were discovered after a forensic examination.
+
+Out of 14 confirmed individuals he spied on - roughly half were people he knew personally, an NCA spokesman told the BBC.
+
+At a hearing in July, Rigo pleaded guilty to one count of voyeurism and another computer-related offence.
+
+The court took Rigo's guilty plea into account when handing down the 20 week sentence. As well as being placed on the sex offenders register, Rigo will have to complete 200 hours of unpaid work within the next 12 months.
+
+Victims 'unaware'
+
+Investigators found and arrested Rigo after raiding two addresses in Leeds.
+
+The hacker had used his ex-girlfriend's details to purchase BlackShades, a remote access trojan (RAT) which allows for a high level of surreptitious control over a victim's computer.
+
+"The problem with RATs specifically is a lot of the time people don't know they're being affected," the NCA spokesman said.
+
+"In the case of Stefan Rigo that we were looking at, his victims weren't aware."
+
+BlackShades has been around since 2010 and has been sold for as little as $40 (£26), explained Jens Monrad at cyber security firm FireEye.
+
+"The application in itself is not that difficult to detect but typically the attackers will wrap some sort of exploit around the application," said Mr Monrad.
+
+"Even with patches the victim will still be vulnerable so long as there is a hole in the operating system."
+
+Mr Monrad recommended that computer users be careful of clicking on suspicious links or downloading dubious email attachments.
+
+Cam scams
+
+The criminal market for webcam hacking tools is highly active, according to Mr Monrad, since malicious hackers are often able to exploit their victims after taking covert images of them.
+
+There have also been cases in which hackers sold access to specific cameras.
+
+Connected security cameras in buildings may be at risk too, though there are sometimes difficulties in publicly discussing how secure they are.
+
+One researcher recently cancelled a forthcoming talk on the issue following legal pressure from the manufacturers of widely-used surveillance cameras.
+
+Gianni Gnesa was due to discuss "vulnerabilities found on major surveillance cameras and show how an attacker could used them to stay undetected" at the HITB GSEC security conference in Singapore.
+
+The Register reports that a legal threat from one, unnamed, manufacturer resulted in Gnesa withdrawing his presentation.

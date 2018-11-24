@@ -1,0 +1,25 @@
+A man was charged yesterday with more than 800 offences under the Computer Misuse Act.
+
+James Sim Guan Liang, 39, faces 293 charges of unlawfully disclosing SingPass passwords to a person with the pseudonym "Lemon" for the purpose of helping "Lemon" and other unknown persons to make a false statement to get a Singapore visa.
+
+Sim, an administrative assistant then, guessed the passwords of the 293 account holders by entering their SingPass and identity card numbers in the login fields.
+
+The alleged offences took place at a flat in Toa Payoh from March to May 2011.
+
+Between January and May the same year, he allegedly committed 575 counts of unauthorised access into the homepages of Central Provident Fund Board members, and a Media Development Authority server.
+
+Sim's lawyer G. Gopalan asked for time to make representations.
+
+Deputy Public Prosecutor Jeremy Lua told District Judge Eddy Tham that the prosecution was finalising further charges under the Immigration Act and National Registration Act.
+
+Responding to media queries if this was a "hacking" case, the Attorney-General's Chambers said that no hacking of the SingPass infrastructure was detected.
+
+"In fact, the methodology was very simple. The accused guessed the passwords of the accounts in question. This was possible because all the accounts used passwords based on the NRIC of the account holder."
+
+A pre-trial conference is scheduled for June 26.
+
+The maximum penalty for disclosing a password to gain access to a program or data held in any computer is a $10,000 fine and three years in jail on each charge.
+
+If convicted of unauthorised access, Sim could be fined up to $5,000, jailed for up to two years, or both.
+
+elena@sph.com.sg

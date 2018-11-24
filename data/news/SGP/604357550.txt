@@ -1,0 +1,29 @@
+Known as 'Avalanche,' the criminal network "was used as a delivery platform to launch and manage mass global malware attacks and money mule recruiting campaigns," Europol says in a statement
+
+Published 11:55 PM, December 01, 2016
+
+THE HAGUE, Netherlands – In one of the biggest takedowns to date, police across the globe have smashed a massive criminal network providing online services including malware attacks that infected half a million computers worldwide, Europol said Thursday.
+
+Known as "Avalanche," the criminal network "was used as a delivery platform to launch and manage mass global malware attacks and money mule recruiting campaigns," Europe's policing agency said in a statement.
+
+The network would be contacted by other criminal groups to send emails to specific victims containing malware to steal bank details and passwords as well as to conduct so-called distributed denial of service (DDoS) spam attacks.
+
+"Victims of the malware infections were identified in more than 180 countries," it said from its fortress-like headquarters in The Hague.
+
+The damage caused ran into "hundreds of millions of euros" and in Germany alone – where the gang's activities were first detected – some six million euros ($6.3 million) in losses were reported as a result of "concentrated cyberattacks on online banking systems."
+
+Police from as far afield as Australia, Belize, India and Singapore, together with 25 other countries pounced on Wednesday after a four-year operation, arresting five top network bosses, seizing 37 servers and searching 39 premises. Europol would not say in which countries the five were held.
+
+"Avalanche functioned like a company – and we have arrested its 'chief executive' and 'board members'," said Fernando Ruiz, operations chief at Europol's EC3 Cybercrime Centre.
+
+"They had different branches that catered for different crimes – and even had a customer service section to help their clients," Ruiz told AFP.
+
+Law officials also shut down 221 other servers and seized or blocked some 800,000 internet domains in the "unprecedented" operation.
+
+The operation was supported by Europol, the continent's judicial cooperation agency Eurojust, Interpol, the US Attorney's Office, the FBI and private companies.
+
+The suspects face charges in different countries all related to being involved in organised crime.
+
+Eurojust president Michele Coninsx said the operation "marked a significant moment in the fight against organised cybercrime."
+
+"Avalanche, one of the world's largest and most malicious botnet infrastructures has been decisively neutralised in one of the biggest takedowns to date," she said. – Rappler.com

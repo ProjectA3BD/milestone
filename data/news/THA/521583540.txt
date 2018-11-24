@@ -1,0 +1,9 @@
+Hello
+
+Create Profile
+
+Creating your profile will enable you to submit photos and stories to get published on News24.
+
+Please provide a username for your profile page:
+
+This username must be unique, cannot be edited and will be used in the URL to your profile page across the entire 24.com network.

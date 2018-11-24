@@ -1,0 +1,57 @@
+Global Voices Advocacy's Netizen Report offers an international snapshot of challenges, victories, and emerging trends in Internet rights around the world.
+
+Bloggers in Bangladesh are facing increasingly violent threats for their criticism of religious conservatism. In the past month, two bloggers, Oyasiqur Rahman Babu and Avijit Roy, have been hacked to death in public. Both assassinations were allegedly planned and carried out by religious fundamentalists.
+
+This is not the first time the exercise of free speech has led to such brutal violence in Bangladesh. In 2013, in the face of mass protests surrounding war crimes trials, political bloggers received brutal threats from both religious conservative leaders and the national government. Four bloggers involved with the protest movement were arrested and charged with “insulting Islam,” and another, Ahmed Rajib Haider, was assassinated outside his home in the capital city of Dhaka. At the urgings of conservative Muslim clerics, authorities formed (link in Bangla) a committee to track bloggers and Facebook users who made derogatory remarks about Islam and the Prophet Mohammed.
+
+Although there is no sharia or blasphemy law in Bangladesh, the country’s penal code stipulates that any person who has a “deliberate” or “malicious” intention of “hurting religious sentiments” is liable to imprisonment. That section has been used against Internet users on several occasions. Just last spring, two teenagers were attacked by a mob and then arrested by police after they were alleged to have posted “derogatory comments against Islam and Prophet Mohammed” on their Facebook accounts.
+
+Read more of our special coverage: Bloggers Under Fire: The Fatal Consequences of Free Thinking in Bangladesh
+
+Rahman, the blogger who was killed just this week, wrote pseudonymously as Washiqur Babu on Facebook and various local blogs, and was known for his critiques of conservative Muslim teachings. Until his death, his legal identity was unknown among most members of the online communities to which he belonged. It is unclear how his attackers uncovered his identity.
+
+New sites blocked as Yemen’s conflict escalates
+
+Yemen’s largest Internet service provider, Yemen Net, has begun blocking news sites, including Mareb Press and Yemen Press. Both sites have covered human rights violations committed by the Houthi rebel group that ousted Yemen’s prime minister in January 2015. The ISP has also blocked a number of sites that have no apparent journalistic or political leaning, such as the search engine Sahafa Net, one of the most visited websites in Yemen. Prior to instituting the blocks, Yemen’s Ministry of Information promised to take legal action against media outlets “inciting tension.”
+
+Singapore teen arrested for YouTube video
+
+A Singaporean teenager was arrested for posting a YouTube video disparaging Christians and celebrating the death of Lee Kuan Yew, the country’s founder. In the video, the young man said Lee Kuan Yew “created an environment where his blatant flaws as a leader were hidden because most people were afraid of criticizing him.” He faces charges under Singapore’s religious harmony laws which ban “deliberate intention of wounding the religious or racial feelings,” and could face more than three years in prison.
+
+Omani blogger disappears after attempting to cross UAE border
+
+Omani blogger Muawiyah Alrawahi was allegedly detained on February 24 while attempting to enter the United Arab Emirates by car from Oman, according to statements from multiple human rights organizations. Amnesty International confirmed that UAE border security seized Alrahawi’s travel documents, but his whereabouts are currently unknown. It has been more than 30 days since his family and friends have heard from him. In a 2010 interview with Global Voices, Alrawahi talked about his experience with blogging in Oman. He explained that he took to blogging to write about Oman's issues with the belief that “the issue we don’t discuss is the issue we won’t solve.”
+
+Google slaps anti-war site for posting infamous Abu Ghraib images
+
+Google AdSense issued a policy violation notice to the anti-interventionist website AntiWar.com after the site posted reproductions of the widely distributed photos of prisoner abuse at the US-run Abu Ghraib prison in Iraq. In an email to the website’s managers, Google explained that it does not allow Google ads to be placed on pages with “violent or disturbing content” and that the site would be suspended from Google’s ad network. AntiWar.com co-founder Eric Garris says the Web page in question did not feature Google ads, but that there were remnants of AdSense code, which may have triggered the notice.
+
+GitHub attackers target China circumvention tools
+
+The open code repository GitHub was paralyzed by a massive DDoS attack last week. The attack may be linked to the recent attempt to shut down anti-censorship tools on GreatFire.org, as the onslaught of traffic was directed at two GitHub pages that linked to content blocked behind China’s firewall. The coding site of critical importance to computer engineers around the world was blocked in China in 2013 but then re-opened in the wake of online protests. After the block was lifted, Chinese state media reported that the block presented “a hindrance to the country’s competitiveness in technology research and development.”
+
+China’s Cyberspace Administration bans “wife-swapping” stories
+
+The Cyberspace Administration of China continued its onslaught against sexually explicit material on WeChat, TenCent’s popular messaging app. The CAC’s guidelines not only ban naked photos and erotic anime, but it also forbids stories of “one-night stands, wife-swapping, sexual abuse and other harmful information.”
+
+Italian PM dismantles surveillance provisions in anti-terror law
+
+A portion of Italy’s anti-terrorism law passed in the wake of Charlie Hebdo was struck down after Prime Minister Matteo Renzi requested the removal of a provision would have allowed law enforcement to “intercept the flow of communications relating to information or computer systems” through remote access technologies such as trojan horse and keylogger malware.
+
+Egypt’s president calls for ‘safe’ Internet principles
+
+Egyptian President Abdel Fattah el-Sisi called the Internet a “new terrorist danger” in a speech before the Arab Summit in Sharm El-Sheikh. In the speech, he warned that terrorist groups “misuse the Internet and information networks” to incite terrorism, panic, and extremist thought, and called for a set of principles for the safe use of information technology.
+
+EU-US privacy wars continue
+
+In a case before the EU Court of Justice, the European Commission (EC) admitted that the US-EU Safe Harbour data transfer framework lacks adequate citizen protections against spying by the US intelligence agencies. “You might consider closing your Facebook account if you have one,” EC attorney Bernhard Schima told the CJEU attorney general
+
+The UK Court of Appeal ruled that the “Safari Users Against Google’s Secret Tracking” group indeed has the right to sue Google for bypassing the privacy settings on Apple’s Safari browser in order to install cookies that would allow the company to display personally tailored ads. This may lead to a spike in class-action lawsuits against US companies offering services in the UK.
+
+Maybe the UN can help?
+
+The United Nations will soon appoint a Special Rapporteur on the right to privacy under the Human Rights Council. The Special Rapporteur will be responsible for covering privacy issues including, police search and seizure, state restrictions on personal relationships and intrusions on privacy by businesses.
+
+New Research
+
+Ellery Roberts Biddle, Mohamed ElGohary, Lisa Ferguson, Weiping Li, Hae-in Lim, Bojan Perkov and Sarah Myers West contributed to this report.

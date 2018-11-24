@@ -1,0 +1,7 @@
+Weather Location Search
+
+There is no data for this zipcode!
+
+Get current weather condition by zip code failed.
+
+Hattiesburg, MS 39401 30°F Clear Feels like 23°

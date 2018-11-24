@@ -1,0 +1,27 @@
+A HACKER, who calls himself Cyber Anakin after the Star Wars character, is taking aim at Russian websites to avenge the MH17 crash.
+
+The teenage hacker, who has not been named, told Motherboard he wanted to hit Russian websites, to open private databases and expose Russians websites by publicly airing their data on Russian internet users.
+
+“I choose the targets randomly, as long as it’s Russian,” Cyber Anakin told Motherboard in a Twitter message.
+
+“I hold consequentialist approach during the hack, meaning that I only care about the public shock among Russians as a result of the hack, and to show the irony that Russians can defend against Hitler but cannot defend against hacker [sic].”
+
+Cyber Anakin told Motherboard these hacks are part of “revenge” he wanted after the MH17 crash.
+
+media_camera A reconstructed section of the Malaysia Airlines plane that was downed by a missile over Ukraine, killing 298 people at the Gilze-Rijen air force Base, the Netherlands. Picture: AAP
+
+The Dutch Safety Board’s report into the July 17, 2014, tragedy which killed 298 people including 38 Australian citizens and residents concluded that the Amsterdam to Kuala Lumpur Boeing 777 was hit by a Russian-made Buk missile.
+
+The warhead exploded just outside the cockpit on the left side, instantly killing the pilot and two other crew members as the front of the plane sheared off.
+
+Already, Cyber Anakin has reportedly accessed information from Russian sites km.ru, and the video game maker Nival.com.
+
+media_camera Actor Hayden Christensen as Anakin Skywalker in the Star Wars prequels. Picture: Lucasfilm
+
+A security researcher from haveibeenpowned.com, Troy Hunt, told Motherboard that he could have gained access to information that will affect 1.5 million victims linked to km.ru.
+
+He said the hacked database contained emails, encrypted passwords, secret questions and answers. Nival’s database has similar data.
+
+It is understood Cyber Anakin knew someone whose relative lost their life in the plane crash, and he had been planning his hack attack since the tragedy.
+
+Originally published as ‘Cyber Anakin’ wants MH17 revenge
